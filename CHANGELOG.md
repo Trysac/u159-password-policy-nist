@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add NIST SP 800-63B-4 password policy validation with k-anonymity breach check port.
 - Initial project structure from the factory utility template.
